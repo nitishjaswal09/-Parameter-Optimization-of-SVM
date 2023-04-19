@@ -1,11 +1,11 @@
 # -Parameter-Optimization-of-SVM
 ## Sampling Assignment
 
-**Dataset Used:** [Nursery Data Set](https://archive.ics.uci.edu/ml/machine-learning-databases/00222/)
+**Dataset Used:** [Nursery Data Set](https://archive.ics.uci.edu/ml/machine-learning-databases/nursery/nursery.data)
 
-| Number of Instances:  | 45211 |
+| Number of Instances:  | 12960 |
 |-----------------------|--------|
-| Number of Attributes: | 17     |
+| Number of Attributes: | 8    |
 
 ## Tasks Performed
 1. Download the dataset
