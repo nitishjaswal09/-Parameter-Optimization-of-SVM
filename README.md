@@ -1,7 +1,7 @@
 # -Parameter-Optimization-of-SVM
 ## Sampling Assignment
 
-**Dataset Used:** [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/machine-learning-databases/00222/)
+**Dataset Used:** [Nursery Data Set](https://archive.ics.uci.edu/ml/machine-learning-databases/00222/)
 
 | Number of Instances:  | 45211 |
 |-----------------------|--------|
